@@ -7,7 +7,7 @@ Time Series Analysis on the Central England Temperature.pdf
 **-- DATA --**  
 meantemp_monthly_totals.txt  
 **-- CODE --**  
-meantemp_monthly_totals.txt
+Time Series Analysis-Code.Rmd
 
 # Selected Figures
 ![image](https://github.com/user-attachments/assets/0dbae4cd-2466-4489-80a2-1592b8cc1859)
